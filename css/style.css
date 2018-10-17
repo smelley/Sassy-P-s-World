@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+*{
+  margin: 0px;
+padding: 0px;
+}
+
+body {
+  background: #889cf7;
+font-family: 'Charmonman', cursive;
+color: white;
+}
+
+p{
+font-family: 'Pacifico', cursive;
+color: blue;
+font-size: 20px;
+}
+img{
+  width: 500px;
+}
+a{
+  font-size: 30px;
+}
+.header{
+  background: linear-gradient(160deg,#ebc812,#ffa51a,#ff7c3f,#ff5166,#ff2991,#ee2abc,#ad47e1,#0b5ef7);
+margin-left: 40px;
+padding-left: 40px;
+}
+
